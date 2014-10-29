@@ -99,7 +99,7 @@
 	<message key="common.initiate">Sett i gang</message>
 	<message key="common.inProgress">Under arbeid</message>
 	<message key="common.keywords">Nøkkelord</message>
-	<message key="common.language">Språk</message>
+	<message key="common.language">Choose Language</message>
 	<message key="common.languages">Språk</message>
 	<message key="common.mailingAddress">Postadresse</message>
 	<message key="common.minute">Minutt(er)</message>

@@ -132,7 +132,7 @@
 	<message key="common.initiate">Initiate</message>
 	<message key="common.inProgress">In progress</message>
 	<message key="common.keywords">Keywords</message>
-	<message key="common.language">Language</message>
+	<message key="common.language">Choose Language</message>
 	<message key="common.languages">Languages</message>
 	<message key="common.less">Less</message>
 	<message key="common.manage">Manage</message>

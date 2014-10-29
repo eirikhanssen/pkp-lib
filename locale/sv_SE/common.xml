@@ -97,7 +97,7 @@
 	<message key="common.initiate">Påbörja</message>
 	<message key="common.inProgress">Pågående</message>
 	<message key="common.keywords">Nyckelord</message>
-	<message key="common.language">Språk</message>
+	<message key="common.language">Choose Language</message>
 	<message key="common.languages">Språk</message>
 	<message key="common.mailingAddress">E-postadress</message>
 	<message key="common.minute">Minut(er)</message>
