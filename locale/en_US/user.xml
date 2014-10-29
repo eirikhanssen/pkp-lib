@@ -54,12 +54,14 @@
 	<message key="user.login.activated">Thank you for activating your account. You may now log in using the credentials you supplied when you created your account.</message>
 	<message key="user.login.changePasswordInstructions"><![CDATA[You must choose a new password before you can log in to this site.<br /><br />Please enter your username and your current and new passwords below to change the password for your account.]]></message>
 	<message key="user.login.forgotPassword">Forgot your password?</message>
-	<message key="user.login.loginError">Invalid username or password. Please try again.</message>
+	<message key="user.login.loginError">Invalid username or password. Please try again. Read about common solutions below.</message>
 	<message key="user.login">Login</message>
 	<message key="user.login.lostPassword.confirmationSent">A confirmation has been sent to your email address. Please follow the instructions in the email to reset your password.</message>
 	<message key="user.login.lostPassword.invalidHash">Sorry, the link you clicked on has expired or is not valid. Please try resetting your password again.</message>
 	<message key="user.login.lostPassword.invalidUser">No user exists with the specified email address.</message>
 	<message key="user.login.lostPassword.passwordSent">A new password has been sent to your email address. You may now login to the site with your new password.</message>
+	<message key="user.login.msieProblems.description">Some versions of Internet Explorer have login problems.</message>
+	<message key="user.login.msieProblems.solution">Try a different browser or this possible solution.</message>
 	<message key="user.login.registeredEmail">Registered user's email</message>
 	<message key="user.login.rememberUsernameAndPassword">Remember my username and password</message>
 	<message key="user.login.resetPassword">Reset Password</message>

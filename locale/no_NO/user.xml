@@ -38,12 +38,14 @@
 	<message key="user.login.activated">Takk for at du aktiverer kontoen din. Du kan nå logge inn med de samme påloggingsdataene du oppga når du opprettet kontoen.</message>
 	<message key="user.login.changePasswordInstructions"><![CDATA[Du må velge et nytt passord before du kan logge inn på dette nettstedet.<br /><br />Vennligst skriv inn brukernavnet ditt, og det nåværende og det nye passordet ditt nedenfor, for å endre passordet for kontoen din.]]></message>
 	<message key="user.login.forgotPassword">Har du glemt passordet?</message>
-	<message key="user.login.loginError">Ugyldig brukernavn eller passord. Vennligst prøv igjen.</message>
+	<message key="user.login.loginError">Ugyldig brukernavn eller passord. Vennligst prøv igjen. Se vanlige løsningsforslag nedenfor.</message>
 	<message key="user.login">Logg inn</message>
 	<message key="user.login.lostPassword.confirmationSent">En bekreftelse er nå sendt til din e-postadresse. Vennligst følg instruksjonene i e-posten for å tilbakestille passordet ditt.</message>
 	<message key="user.login.lostPassword.invalidHash">Beklager, lenken du klikket på har utløpt eller er ugyldig. Vennligst prøv å tilbakestille passordet ditt igjen.</message>
 	<message key="user.login.lostPassword.invalidUser">Det finnes ingen bruker med denne e-postadressen.</message>
 	<message key="user.login.lostPassword.passwordSent">Et nytt passord er nå sendt til din e-postadresse. Du kan nå logge inn på nettstedet med det nye passordet ditt.</message>
+	<message key="user.login.msieProblems.description">Noen versjoner av Internet Explorer har innloggingsproblemer.</message>
+	<message key="user.login.msieProblems.solution">Prøv en annen nettleser eller denne mulige løsningen.</message>
 	<message key="user.login.registeredEmail">Den registrerte brukerens e-post</message>
 	<message key="user.login.rememberUsernameAndPassword">Husk mitt brukernavn og passord</message>
 	<message key="user.login.resetPassword">Tilbakestill passordet</message>

@@ -66,6 +66,7 @@
 	<p>
 		{if !$hideRegisterLink}&#187; <a href="{url page="user" op=$registerOp}">{translate key=$registerLocaleKey}</a><br />{/if}
 		&#187; <a href="{url page="login" op="lostPassword"}">{translate key="user.login.forgotPassword"}</a>
+		<br /><br /><strong>{translate key="user.login.msieProblems.description"}</strong><br />&#187; <a href="{php}echo Config::getVar('general','base_url') . "/help/msielogin.html";{/php}">{translate key="user.login.msieProblems.solution"}</a>
 	</p>
 {/if}{* !$implicitAuth *}
 
