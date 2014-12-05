@@ -148,6 +148,7 @@
 	<message key="manager.setup.layout.rightSidebar">Høyre sidespalte</message>
 	<message key="manager.setup.layout.unselected">Ikke valgt</message>
 	<message key="manager.setup.loggingAndAuditing">Logging og revisjon</message>
+	<message key="manager.setup.metaCitationsDescription">Kryss av for å aktivere redigering av siteringer og referanser. Det gir forfattere muligheten til å inkludere uformaterte referencer i deres innsendte bidrag. Redaktører vil også få tilgang til et referanseredigeringsverktøy (citation markup assistant), som kan kontrollere uformaterte referanser opp mot eksterne databaser som WorldCat, ISBNdb, PubMed med flere. Godkjente referanser kan eksporteres og brukes i de endelige filene som legges ut til visning.</message>
 	<message key="manager.setup.pageHeaderLogoImageInvalid">Ugyldig sidetopptekst logobildeformat. Aksepterte format er .gif, .jpg, eller .png.</message>
 	<message key="manager.setup.pageHeaderTitleImageInvalid">Ugyldig sidetopptekst tittelbildeformat. Aksepterte format er .gif, .jpg, eller .png.</message>
 	<message key="manager.setup.selectOne">Velg en</message>
@@ -159,6 +160,12 @@
 	<message key="plugins.categories.blocks">Programutvidelser for blokker</message>
 	<message key="plugins.categories.blocks.description">Programutvidelser for blokker er brukergrensesnittkomponenter, som de ulike verktøyene i sidemenyen.</message>
 	<message key="plugins.categories.citationFormats">Plugins for siteringsformat</message>
+<message key="plugins.categories.citationLookup">Citation Database Connector Plugins</message>
+<message key="plugins.categories.citationLookup.description">Citation Database Connector Plugins connect to citation databases to look up citations, e.g. during citation editing.</message>
+<message key="plugins.categories.citationOutput">Citation Output Plugins</message>
+<message key="plugins.categories.citationOutput.description">Citation Output Plugins implement citation standards. This supersedes Citation Format Plugins.</message>
+<message key="plugins.categories.citationParser">Citation Extraction Plugins</message>
+<message key="plugins.categories.citationParser.description">Citation Extraction Plugins extract field-level data from raw citations (e.g. author, title, etc.).</message>
 	<message key="plugins.categories.gateways.description">Programutvidelser for porter gir kontinuerlige data til eksterne systemer.</message>
 	<message key="plugins.categories.gateways">Programutvidelser for porter</message>
 	<message key="plugins.categories.generic">Generiske programutvidelser</message>

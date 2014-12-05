@@ -57,6 +57,7 @@
 	<message key="admin.settings.homeHeaderImageInvalid">Ugyldig filformat for nettstedets logobilde. Tillatte filformat er .gif, .jpg, eller .png.</message>
 	<message key="admin.settings.introduction">Innledning</message>
 	<message key="admin.settings.minPasswordLength">Minste passordlengde</message>
+	<message key="admin.settings.oneStepReset">Aktivér ett-stegs passord-tilbakestilling?</message>
 	<message key="admin.settings.oaiRegistration">Registrer nettstedet for indeksering (Metadata Harvesting)</message>
 	<message key="admin.settings.passwordCharacters">tegn</message>
 	<message key="admin.settings.siteLanguage">Nettstedspråk</message>

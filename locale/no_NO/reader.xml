@@ -52,6 +52,7 @@
 	<message key="rt.admin.searches.edit.editSearch">Rediger søk</message>
 	<message key="rt.admin.selectedVersion">Relaterte elementer</message>
 	<message key="rt.admin.settings.abstract">Sammendrag (viser elementets sammendrag).</message>
+	<message key="rt.admin.settings.viewReviewPolicy">Vis fagfellevurderingspolicy</message>
 	<message key="rt.admin.settings.authorBio">Om forfatteren (viser biografiske opplysninger forfatteren har skrevet inn).</message>
 	<message key="rt.admin.settings.captureCite">Hvordan element skal siteres (gir bibliografiske detaljer for elementet).</message>
 	<message key="rt.admin.settings.defineTerms">Søk på ord (leseren kan dobbelklikke på ord i et element, og ordet blir sendt til et ordbokssøk).</message>

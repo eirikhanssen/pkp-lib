@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../dtd/locale.dtd">
+
+<!--
+  * plugins/metadata/mods34/locale/no_NO/locale.xml
+  *
+  * Copyright (c) 2013-2014 Simon Fraser University Library
+  * Copyright (c) 2003-2014 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the no_NO (Norwegian) locale. Translated from en_US locale.
+  -->
+
+<locale name="no_NO" full_name="Norwegian">
+	<!-- plug-in -->
+	<message key="plugins.metadata.mods34.displayName">MODS 3.4 meta-data</message>
+	<message key="plugins.metadata.mods34.description">Leverer MODS 3.4 tilpasningsskjemaer og applikasjonsadaptere.</message>
+
+	<!-- MODS 3.4 XML output -->
+	<message key="plugins.metadata.mods34.mods34XmlOutput.displayName">MODS 3.4 Output</message>
+	<message key="plugins.metadata.mods34.mods34XmlOutput.description">Konverterer MODS 3.4 metadatabeskrivelser dens XML representasjon.</message>
+</locale>

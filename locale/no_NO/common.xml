@@ -246,6 +246,9 @@
 	<message key="navigation.userHome">Min side</message>
 	<message key="navigation.user">Bruker</message>
 	<message key="search.abstract">Sammendrag</message>
+	<message key="search.activeFilters">Advanserte filtre</message>
+	<message key="search.advancedSearchMore">(Vis flere søkeinnstillinger)</message>
+	<message key="search.advancedSearchLess">(Skjul flere søkeinnstillinger)</message>
 	<message key="search.allFields">Alle</message>
 	<message key="search.coverage">Dekning</message>
 	<message key="search.date">Dato</message>
@@ -254,6 +257,7 @@
 	<message key="search.discipline">Fagdisiplin(er)</message>
 	<message key="search.fullText">Fulltekst</message>
 	<message key="search.indexTerms">Emneord</message>
+	<message key="search.indexTermsLong">Alle emneordfeltene</message>
 	<message key="search.matchAll">Treff i alle kategorier</message>
 	<message key="search.noKeywordError">Du må skrive inn minst ett søkeord.</message>
 	<message key="search.noResults">Ingen resultat</message>
