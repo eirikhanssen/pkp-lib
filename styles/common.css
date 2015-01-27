@@ -78,13 +78,11 @@ input.textField, select.selectMenu, textarea.textArea, input.uploadField {
 input.button {
 	padding-left: 0.5em;
 	padding-right: 0.5em;
-	background-color: #E8E8E1;
 	font-size: 1em;
 }
 
 input.defaultButton {
-	background-color: #375;
-	color: #FBFBF3;
+	padding: .25rem;
 	font-weight: bold;
 }
 
