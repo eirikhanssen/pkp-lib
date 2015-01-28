@@ -12,7 +12,7 @@
 {include file="help/header.tpl"}
 {/strip}
 
-<div id="sidebar">
+<div id="sidebar" tabindex="0">
 	{include file="help/toc.tpl"}
 </div>
 
