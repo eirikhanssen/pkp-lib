@@ -11,8 +11,9 @@
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{$currentLocale|replace:"_":"-"}" xml:lang="{$currentLocale|replace:"_":"-"}">
 <head>
-	<title>{$applicationHelpTranslated}</title>
 	<meta http-equiv="Content-Type" content="text/html; charset={$defaultCharset|escape}" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>{$applicationHelpTranslated}</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 
