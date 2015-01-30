@@ -20,7 +20,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{$currentLocale|replace:"_":"-"}" xml:lang="{$currentLocale|replace:"_":"-"}">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset={$defaultCharset|escape}" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, target-densityDpi=device-dpi" />
 	<title>{$pageTitleTranslated}</title>
 	<meta name="description" content="{$metaSearchDescription|escape}" />
 	<meta name="keywords" content="{$metaSearchKeywords|escape}" />
