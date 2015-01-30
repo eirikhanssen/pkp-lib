@@ -92,8 +92,7 @@ input.defaultButton {
  */
 
 #container {
-	width: 100% !important;
-	min-width: 730px !important;
+	width: 100%;
 	margin: 0px auto;
 	text-align: center;
 }
@@ -104,7 +103,7 @@ input.defaultButton {
 }
 
 #headerTitle {
-	text-align: left !important;
+	text-align: left;
 	margin: 0 auto;
 	padding: 0;
 	width: 100%;
