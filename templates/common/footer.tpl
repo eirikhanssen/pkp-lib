@@ -35,7 +35,7 @@
 
             <div id="cookiePolicy">
                 <h4>{translate key="hioamod.footer.privacypolicyheader"}</h4>
-                <p>{translate key="hioamod.footer.aboutcookieusagelink"}<p>
+                <p>{translate key="hioamod.footer.aboutcookieusagelink"}</p>
             </div>
         </div>
         {if $pageFooter!==''}
