@@ -21,6 +21,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset={$defaultCharset|escape}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, target-densityDpi=device-dpi" />
+	<meta name="format-detection" content="telephone=no" />
 	<title>{$pageTitleTranslated}</title>
 	<meta name="description" content="{$metaSearchDescription|escape}" />
 	<meta name="keywords" content="{$metaSearchKeywords|escape}" />
