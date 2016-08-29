@@ -34,7 +34,7 @@
 	<link rel="stylesheet" href="{$baseUrl}/styles/compiled.css" type="text/css" />
 
 	<!-- Base Jquery -->
-	{if $allowCDN}<script type="text/javascript" src="//www.google.com/jsapi"></script>
+	{if $allowCDN}<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 		<script type="text/javascript">{literal}
 			<!--
 			// Provide a local fallback if the CDN cannot be reached
